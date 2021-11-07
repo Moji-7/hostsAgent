@@ -1,0 +1,3 @@
+INFO:schedule:Running job Every 2 seconds do func() (last run: [never], next run: 2021-10-26 13:14:25)
+INFO:schedule:Running job Every 2 seconds do func() (last run: 2021-10-26 13:14:25, next run: 2021-10-26 13:14:27)
+INFO:schedule:Running job Every 2 seconds do func() (last run: [never], next run: 2021-10-26 13:14:46)
